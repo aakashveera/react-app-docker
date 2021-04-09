@@ -1,3 +1,3 @@
-# DOCKER APP
+# DOCKER REACTAPP
 
-A simple react app using docker
+Docker image to run simple hello world react App.
